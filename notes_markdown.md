@@ -70,9 +70,8 @@ data = read_excel('spambase.xls')
 
 <h3 id="1-denormalize">1.2 Denormalize normalized data</h3>  
 
-  - Collect $\textit{max}_x$, $\textit{min}_x$  
-
-  -Apply the formula on all $\textit{x}$ : $\textit{x}$ * ( $\textit{max}_x$ - $\textit{min}_x$ ) + $\textit{min}_x$
+  - Collect $\textit{max}_x$, $\textit{min}_x$ 
+  - Apply the formula on all $\textit{x}$ : $\textit{x}$ * ( $\textit{max}_x$ - $\textit{min}_x$ ) + $\textit{min}_x$
 
 
 <h3 id="1-train-test">1.3 Train/Test Split</h3>   
