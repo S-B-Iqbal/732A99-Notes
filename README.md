@@ -1,6 +1,6 @@
 # 732A99-Notes
 
-- [Main Page](https://s-b-iqbal.github.io/Reflexione/732a99/r/machine%20learning/liu/tdde01/2020/08/25/732A99.html)
+- [Main Blog](https://s-b-iqbal.github.io/Reflexione/732a99/r/machine%20learning/liu/tdde01/2020/08/25/732A99.html)
 - Notes and R-code implementation for various topics covered in [732A99 Machine Learning](https://www.ida.liu.se/~732A99/index.en.shtml) course offered at Linköping University.
 - R was the language of choice for this course and sometimes I really struggled to implement certain concepts. This repo is an ateempt to record some if's and but's to keep in mind while programmingin R. Hope this helps!  
 - Primary source of reference was Bishop's [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/). All the equations quoted within code snippets or notes can be found in this book.  
